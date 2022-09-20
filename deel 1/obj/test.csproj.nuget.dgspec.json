@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\peter\\Documents\\VSC Projects\\test\\test.csproj": {}
+    "c:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 1\\test.csproj": {}
   },
   "projects": {
-    "c:\\Users\\peter\\Documents\\VSC Projects\\test\\test.csproj": {
+    "c:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 1\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\peter\\Documents\\VSC Projects\\test\\test.csproj",
+        "projectUniqueName": "c:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 1\\test.csproj",
         "projectName": "test",
-        "projectPath": "c:\\Users\\peter\\Documents\\VSC Projects\\test\\test.csproj",
+        "projectPath": "c:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 1\\test.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\peter\\Documents\\VSC Projects\\test\\obj\\",
+        "outputPath": "c:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"
