@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 2\\deel 2.csproj",
+      "projectUniqueName": "c:\\Users\\peter\\Desktop\\Opdracht-week-3\\deel 2\\deel 2.csproj",
       "projectName": "deel 2",
-      "projectPath": "C:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 2\\deel 2.csproj",
+      "projectPath": "c:\\Users\\peter\\Desktop\\Opdracht-week-3\\deel 2\\deel 2.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\Documents\\VSC Projects\\Opdracht-week-3\\deel 2\\obj\\",
+      "outputPath": "c:\\Users\\peter\\Desktop\\Opdracht-week-3\\deel 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config"
