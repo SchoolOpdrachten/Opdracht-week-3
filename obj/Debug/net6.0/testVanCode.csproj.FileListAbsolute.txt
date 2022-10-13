@@ -1,0 +1,15 @@
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.csproj.AssemblyReference.cache
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.AssemblyInfoInputs.cache
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.AssemblyInfo.cs
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.csproj.CoreCompileInputs.cache
+C:\repos\WPFW projects\testVanCode\bin\Debug\net6.0\testVanCode.exe
+C:\repos\WPFW projects\testVanCode\bin\Debug\net6.0\testVanCode.deps.json
+C:\repos\WPFW projects\testVanCode\bin\Debug\net6.0\testVanCode.runtimeconfig.json
+C:\repos\WPFW projects\testVanCode\bin\Debug\net6.0\testVanCode.dll
+C:\repos\WPFW projects\testVanCode\bin\Debug\net6.0\testVanCode.pdb
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.dll
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\refint\testVanCode.dll
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.pdb
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\testVanCode.genruntimeconfig.cache
+C:\repos\WPFW projects\testVanCode\obj\Debug\net6.0\ref\testVanCode.dll
